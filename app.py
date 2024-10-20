@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # OpenWeatherMap API details
-API_KEY = "your_openweathermap_api_key"  # Replace with your actual API key
+API_KEY = "SHA256:mDBvmuJWMiaG2BK0T3fJv+WgtPVjdzSt6TfCiSLhOt0"  # Replace with your actual API key
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 # List of Sindh cities
