@@ -8,7 +8,12 @@ BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 # List of Sindh cities
 sindh_cities = [
     "Karachi", "Hyderabad", "Sukkur", "Larkana", 
-    "Mirpur Khas", "Nawabshah", "Khairpur", "Thatta"
+    "Mirpur Khas", "Nawabshah", "Khairpur", "Thatta",
+    "Dadu", "Ghotki", "Jacobabad", "Shikarpur",
+    "Badin", "Tando Allahyar", "Tando Muhammad Khan",
+    "Umerkot", "Tharparkar", "Sanghar", "Naushero Feroze",
+    "Kamber Shahdadkot", "Matiari", "Kashmore", "Shaheed Benazirabad",
+    "Qambar", "Mirpur Mathelo", "Sujawal", "Chachro"
 ]
 
 # Streamlit app title and description
